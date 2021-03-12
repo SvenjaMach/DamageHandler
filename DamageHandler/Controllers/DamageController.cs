@@ -4,7 +4,6 @@ using MassTransit;
 using Microsoft.AspNetCore.Mvc;
 using rabbitmq;
 using rabbitmq_damagemessage;
-//using rabbitmq_damagemessage;
 using System;
 using System.Threading.Tasks;
 

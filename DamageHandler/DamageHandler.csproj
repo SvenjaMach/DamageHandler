@@ -20,7 +20,6 @@
     </PackageReference>
     <PackageReference Include="rabbitmq" Version="1.0.0" />
     <PackageReference Include="rabbitmq-deathmessage" Version="1.0.0" />
-    <PackageReference Include="rabbitmq-enemydeadmessage" Version="1.0.0" />
   </ItemGroup>
 
 
